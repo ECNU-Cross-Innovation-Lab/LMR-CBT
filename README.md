@@ -2,6 +2,9 @@
 
 > Pytorch implementation for Learning Modality-fused Representations with CB-Transformer for Multimodal Emotion Recognition from Unaligned Multimodal Sequences.
 
+## Cite this article:
+Ziwang FU, Feng LIU, Qing XU, Xiangling FU, Jiayin QI. LMR-CBT: learning modality-fused representations with CB-Transformer for multimodal emotion recognition from unaligned multimodal sequences. Front. Comput. Sci., 2024, 18(4): 184314 https://doi.org/10.1007/s11704-023-2444-y
+
 ## Overview
 
 ### Overall Architecture
